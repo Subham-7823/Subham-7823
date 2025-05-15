@@ -26,7 +26,7 @@
 ### 📫 Connect with Me
 
 - 📧 Email: subhamjyotiranagcsj@gmail.com
-- 💼 LinkedIn:[ [linkedin.com/in/yourprofile](#)](https://www.linkedin.com/in/subhamjyotiranafullstack/)
+- 💼 LinkedIn:[ [linkedin.com/](#)](https://www.linkedin.com/in/subhamjyotiranafullstack/)
 - 🧑‍💻 GitHub: [github.com/Subham-7823](https://github.com/Subham-7823)
 
 ---
@@ -38,9 +38,4 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Subhamjyoti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Subham-7823&show_icons=true&theme=radical)
-
----
 
