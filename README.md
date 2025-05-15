@@ -25,8 +25,8 @@
 
 ### 📫 Connect with Me
 
-- 📧 Email: your-email@example.com
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](#)
+- 📧 Email: subhamjyotiranagcsj@gmail.com
+- 💼 LinkedIn:[ [linkedin.com/in/yourprofile](#)](https://www.linkedin.com/in/subhamjyotiranafullstack/)
 - 🧑‍💻 GitHub: [github.com/Subham-7823](https://github.com/Subham-7823)
 
 ---
