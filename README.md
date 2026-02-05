@@ -13,15 +13,6 @@
 - 🛠️ Familiar with: `HTML`, `CSS`, `JavaScript`, `Python`, `Django`, `Git`, `SQL`
 - 🤝 I’m open to **collaborations** on web development projects and hackathons
 
----
-
-### 📂 Projects
-
-- 🔎 **Rent Spotter** – Find local rental homes with accurate location info  
-- 🌐 **Portfolio Website** – Showcasing my work, resume, and contact  
-- 💬 **Chat App (coming soon)** – Real-time chat using Django Channels and WebSockets
-
----
 
 ### 📫 Connect with Me
 
