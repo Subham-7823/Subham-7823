@@ -2,7 +2,7 @@
 
 🎓 **Computer Science Graduate**  
 🌍 Based in India  
-💻 Passionate about Web Development & Problem Solving  
+💻 Passionate about Web Development & Problem Solving 
 
 ---
 
